@@ -27,9 +27,10 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on Vite and React logos to learn more
-      </p
+      </p>
     </>
   )
 }
+///header
 
 export default App
